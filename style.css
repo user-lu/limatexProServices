@@ -1,11 +1,16 @@
-nav {
-    background-color: #94fc13;
-}
-
 .bevan-font {
     font-family: 'Bevan', cursive;
+
 }
 
 body {
     margin: 0;
+}
+
+.carousel {
+    height: 100%;
+}
+
+.navbar-inner {
+    background: transparent;
 }
